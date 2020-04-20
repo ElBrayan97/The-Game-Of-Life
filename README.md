@@ -2,6 +2,7 @@
  Viste cuando estas tan al pedo que te pinta crear una civilizacion en 2D? bueno... algo asi!
 
 CONTROLES
+
 Mouse 1 : Da Vida a un Recuadro apagado
 Mouse 3 : Quita la vida a un recuadro encendido
 
