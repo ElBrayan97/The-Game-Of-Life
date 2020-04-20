@@ -4,6 +4,7 @@
 CONTROLES
 
 MOUSE 1 : Da vida a un Recuadro apagado
+
 MOUSE 3 : Quita la vida a un recuadro encendido
 
 MOUSE 2 : Cierra el Juego
